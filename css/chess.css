@@ -3,7 +3,7 @@ div.main {
   height: 600px;
   position: relative;
   left: 350px;
-  top: 1s0px;
+  top: 10px;
 }
 
 div.white {
@@ -64,4 +64,10 @@ div.line8{
     position: absolute;
     left: 525px;
     top: 0px;
+}
+
+div.herf{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
