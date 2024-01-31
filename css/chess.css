@@ -1,47 +1,66 @@
 div.main {
   width: 600px;
   height: 600px;
-  position: absolute;
-  left: 380px;
+  position: relative;
+  left: 300px;
 }
 
-div.line1 {
-  width: 100%;
+div.white {
+  width: 75px;
   height: 75px;
   background-color: #fbdca2;
 }
-div.line2 {
-  width: 100%;
+
+div.black {
+  width: 75px;
   height: 75px;
   background-color: #c57b41;
 }
-div.line3 {
-  width: 100%;
-  height: 75px;
-  background-color: #fbdca2;
+
+div.line1{
+    position: absolute;
+    left: 75px;
+    top: 0px;
 }
-div.line4 {
-  width: 100%;
-  height: 75px;
-  background-color: #c57b41;
+
+div.line2{
+    position: absolute;
+    left: 150px;
+    top: 0px;
 }
-div.line5 {
-  width: 100%;
-  height: 75px;
-  background-color: #fbdca2;
+
+div.line3{
+    position: absolute;
+    left: 225px;
+    top: 0px;
 }
-div.line6 {
-  width: 100%;
-  height: 75px;
-  background-color: #c57b41;
+
+div.line4{
+    position: absolute;
+    left: 300px;
+    top: 0px;
 }
-div.line7 {
-  width: 100%;
-  height: 75px;
-  background-color: #fbdca2;
+
+div.line5{
+    position: absolute;
+    left: 375px;
+    top: 0px;
 }
-div.line8 {
-  width: 100%;
-  height: 75px;
-  background-color: #c57b41;
+
+div.line6{
+    position: absolute;
+    left: 450px;
+    top: 0px;
+}
+
+div.line7{
+    position: absolute;
+    left: 525px;
+    top: 0px;
+}
+
+div.line8{
+    position: absolute;
+    left: 600px;
+    top: 0px;
 }
