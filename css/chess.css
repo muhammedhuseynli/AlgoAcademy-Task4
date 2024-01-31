@@ -2,7 +2,8 @@ div.main {
   width: 600px;
   height: 600px;
   position: relative;
-  left: 300px;
+  left: 350px;
+  top: 1s0px;
 }
 
 div.white {
@@ -19,48 +20,48 @@ div.black {
 
 div.line1{
     position: absolute;
-    left: 75px;
+    left: 0px;
     top: 0px;
 }
 
 div.line2{
     position: absolute;
-    left: 150px;
+    left: 75px;
     top: 0px;
 }
 
 div.line3{
     position: absolute;
-    left: 225px;
+    left: 150px;
     top: 0px;
 }
 
 div.line4{
     position: absolute;
-    left: 300px;
+    left: 225px;
     top: 0px;
 }
 
 div.line5{
     position: absolute;
-    left: 375px;
+    left: 300px;
     top: 0px;
 }
 
 div.line6{
     position: absolute;
-    left: 450px;
+    left: 375px;
     top: 0px;
 }
 
 div.line7{
     position: absolute;
-    left: 525px;
+    left: 450px;
     top: 0px;
 }
 
 div.line8{
     position: absolute;
-    left: 600px;
+    left: 525px;
     top: 0px;
 }
